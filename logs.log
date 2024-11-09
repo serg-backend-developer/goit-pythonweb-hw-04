@@ -1,0 +1,4 @@
+2024-11-09 14:49:25,255 - hometask03-logger - INFO - File test1.txt is copied to test_output/txt
+2024-11-09 14:49:25,255 - hometask03-logger - INFO - File test2.jpg is copied to test_output/jpg
+2024-11-09 14:49:25,255 - hometask03-logger - INFO - File test3.pdf is copied to test_output/pdf
+2024-11-09 14:49:25,255 - hometask03-logger - INFO - File test4.txt is copied to test_output/txt
