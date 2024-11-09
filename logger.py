@@ -4,7 +4,7 @@ from logging.handlers import RotatingFileHandler
 
 LOG_FILE = "logs.log"
 
-logger = logging.getLogger("hometask03-logger")
+logger = logging.getLogger("hometask04-logger")
 logger.setLevel(logging.DEBUG)
 
 file_handler = RotatingFileHandler(LOG_FILE, maxBytes=5 * 1024 * 1024, backupCount=5)
